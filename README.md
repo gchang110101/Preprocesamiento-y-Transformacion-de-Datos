@@ -7,15 +7,15 @@ Este proyecto trabajado por Gabriel Chang se centra en el análisis y preprocesa
 - **Nombre del dataset**: House Prices - Advanced Regression Techniques
 - **Cantidad de columnas**: 81
 - **Cantidad de filas**: 1,460
-- **Enlace al dataset**: <a href="https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data?select=train.csv" target="_blank">House Prices Dataset - Kaggle</a>
+- **Enlace al dataset**: [House Prices Dataset - Kaggle](https://www.kaggle.com/competitions/house-prices-advanced-regression-techniques/data?select=train.csv)
 
 ## Enlaces de referencia:
-1. <a href="https://github.com/gchang110101/Preprocesamiento-y-Transformacion-de-Datos/blob/main/GCHANG_Preprocesamiento_Transformacion.ipynb" target="_blank">Python - Cuaderno del Proceso</a>
-2. <a href="https://github.com/gchang110101/Preprocesamiento-y-Transformacion-de-Datos/blob/main/train.csv" target="_blank">Archivo del Data Set</a>
-3. <a href="https://github.com/gchang110101/Preprocesamiento-y-Transformacion-de-Datos/blob/main/data_description.txt" target="_blank">Archivo con descripción general de las columnas</a>
+1. [Python - Cuaderno del Proceso](https://github.com/gchang110101/Preprocesamiento-y-Transformacion-de-Datos/blob/main/GCHANG_Preprocesamiento_Transformacion.ipynb)
+2. [Archivo del Data Set](https://github.com/gchang110101/Preprocesamiento-y-Transformacion-de-Datos/blob/main/train.csv)
+3. [Archivo con descripcion general de las columnas](https://github.com/gchang110101/Preprocesamiento-y-Transformacion-de-Datos/blob/main/data_description.txt)
 
 ## Instrucciones de uso
-El código está estructurado en cuaderno, entonces se puede ir ejecutando bloque por bloque de manera secuencial, y dejar el registro del output.  
+El código está estructurado en cuaderno, entonces se puede ir ejecutando bloque por bloque de manera secuencial, y dejar el registro del output
 Para ejecutar el código y analizar el dataset, instalar las siguientes librerías instaladas:
 - **pandas**
 - **numpy**
